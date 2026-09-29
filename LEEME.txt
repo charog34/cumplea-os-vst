@@ -1,0 +1,8 @@
+VERSIÓN 4 FINAL DE REVISIÓN
+Cambios:
+- Apodo: “Mi Hormiga Hormigoncita”.
+- Segunda pantalla personalizada.
+- Cada una de las 7 fotos tiene una frase diferente.
+- Se mantienen las 7 fotos, la carta completa y la canción.
+- La música empieza al tocar el corazón.
+Prueba index.html antes de publicar en GitHub Pages.
