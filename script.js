@@ -8,9 +8,9 @@ const unlockText=document.getElementById("unlockText");
 const unlockPercent=document.getElementById("unlockPercent");
 const unlockMessages=[
   "Toca el corazón para comenzar ❤️",
-  "Otra vez que esto recién empieza ❤️",
+  "Otra vez… que esto recién empieza ❤️",
   "Algo se está encendiendo… ✨",
-  "Sigue... que esto se calienta 💗",
+  "Sigue… que esto se calienta 💗",
   "Un poquito más, mi Hormiga 🐜",
   "No pares ahora… ya casi llegas 💞",
   "La última vez! ❤️"
@@ -38,7 +38,6 @@ heart.onclick=()=>{
 document.querySelectorAll(".next").forEach(x=>x.onclick=next);
 document.getElementById("restart").onclick=()=>{unlockStep=0;unlockDone=false;renderUnlock();show(0)};
 document.getElementById("sound").onclick=()=>music.paused?music.play():music.pause();
-
 const pics=Array.from({length:7},(_,i)=>"fotos/foto"+(i+1)+".jpg");
 const captions=[
 "Momentos que merecen quedarse para siempre.",
@@ -56,4 +55,3 @@ document.getElementById("nextPhoto").onclick=()=>set(p+1);
 let x=0;
 img.ontouchstart=e=>x=e.touches[0].clientX;
 img.ontouchend=e=>{let d=e.changedTouches[0].clientX-x;if(Math.abs(d)>45)set(p+(d<0?1:-1))};
-
