@@ -46,7 +46,7 @@ const captions=[
 "Me gustan esos momentos sencillos… porque son nuestros.",
 "Y sí, Hormiga 🐜, todavía quedan muchísimas historias por vivir.",
 "Entre arena, sol y aventuras… contigo hasta perderse tiene su encanto. 😄",
-"Una Hormiga 🐜, un Pollito 🐤 y demasiados recuerdos bonitos para contar.",
+"Una Hormiguita 🐜, un Pollito 🐤 y demasiados recuerdos bonitos para contar.",
 "Si la vida es un viaje, qué bonito coincidir contigo en el camino. ❤️"
 ];
 let p=0,img=document.getElementById("photo"),count=document.getElementById("count"),caption=document.getElementById("caption");
