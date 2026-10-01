@@ -8,7 +8,7 @@ const unlockText=document.getElementById("unlockText");
 const unlockPercent=document.getElementById("unlockPercent");
 const unlockMessages=[
   "Toca el corazón para comenzar ❤️",
-  "Otra vez… que esto recién empieza ❤️",
+  "Otra vez que esto recién empieza ❤️",
   "Algo se está encendiendo… ✨",
   "Sigue… que esto se calienta 💗",
   "Un poquito más, mi Hormiga 🐜",
