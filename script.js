@@ -6,7 +6,7 @@ const heart=document.getElementById("heart");
 const unlockBar=document.getElementById("unlockBar");
 const unlockText=document.getElementById("unlockText");
 const unlockPercent=document.getElementById("unlockPercent");
-const desbloquear_mensajes=[
+const unlockMessages=[
   "Toca el corazón para comenzar ❤️",
   "Otra vez… que esto recién empieza ❤️",
   "Algo se está encendiendo… ✨",
