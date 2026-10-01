@@ -10,7 +10,7 @@ const unlockMessages=[
   "Toca el corazón para comenzar ❤️",
   "Otra vez que esto recién empieza ❤️",
   "Algo se está encendiendo… ✨",
-  "Sigue… que esto se calienta 💗",
+  "Sigue... que esto se calienta 💗",
   "Un poquito más, mi Hormiga 🐜",
   "No pares ahora… ya casi llegas 💞",
   "La última vez! ❤️"
