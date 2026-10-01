@@ -6,11 +6,11 @@ const heart=document.getElementById("heart");
 const unlockBar=document.getElementById("unlockBar");
 const unlockText=document.getElementById("unlockText");
 const unlockPercent=document.getElementById("unlockPercent");
-const unlockMessages=[
+const desbloquear_mensajes=[
   "Toca el corazón para comenzar ❤️",
   "Otra vez… que esto recién empieza ❤️",
   "Algo se está encendiendo… ✨",
-  "Sigue… que esto se calienta  💗",
+  "Sigue… que esto se calienta 💗",
   "Un poquito más, mi Hormiga 🐜",
   "No pares ahora… ya casi llegas 💞",
   "La última vez! ❤️"
