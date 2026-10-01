@@ -9,11 +9,11 @@ const unlockPercent=document.getElementById("unlockPercent");
 const unlockMessages=[
   "Toca el corazón para comenzar ❤️",
   "Otra vez… que esto recién empieza ❤️",
-  "Algo bonito se está encendiendo… ✨",
-  "Sigue… cada latido te acerca un poquito más 💗",
+  "Algo se está encendiendo… ✨",
+  "Sigue… que esto se calienta  💗",
   "Un poquito más, mi Hormiga 🐜",
   "No pares ahora… ya casi llegas 💞",
-  "Último latido… esto es para ti ❤️"
+  "La última vez! ❤️"
 ];
 let unlockStep=0,unlockDone=false;
 function renderUnlock(){
